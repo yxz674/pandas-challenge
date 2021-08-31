@@ -8,20 +8,20 @@ Your final report should include each of the following:
 
 * Total Number of Players
 
+The total number of players output:
+
+![image](https://user-images.githubusercontent.com/87953612/131426581-9af9daf0-95dd-4ea5-ab8c-f89949251afb.png)
+
 ### Purchasing Analysis (Total)
 
 * Number of Unique Items
 * Average Purchase Price
 * Total Number of Purchases
 * Total Revenue
- 
-The total number of players output:
-
-![image](https://user-images.githubusercontent.com/87953612/131425871-883fe456-43ba-4813-acb4-1928fe0c03c7.png)
 
 Purchasing Analysis (Total) output:
 
-![image](https://user-images.githubusercontent.com/87953612/131425914-1f729062-d5bc-4a45-899e-2521f93d6bac.png)
+![image](https://user-images.githubusercontent.com/87953612/131426629-b10ad651-bea8-4b24-856a-33dfbcf12e94.png)
 
 ### Gender Demographics
 
@@ -31,7 +31,7 @@ Purchasing Analysis (Total) output:
 
 Gender Demographics output:
 
-![image](https://user-images.githubusercontent.com/87953612/131425982-dcc462d4-c929-4a43-b178-79b6dfc4bb13.png)
+![image](https://user-images.githubusercontent.com/87953612/131426649-8fea6a78-ff6c-4019-b6e4-42213e7574c6.png)
 
 ### Purchasing Analysis (Gender)
 
@@ -43,7 +43,8 @@ Gender Demographics output:
 
  Purchasing Analysis (Gender) output:
  
-![image](https://user-images.githubusercontent.com/87953612/131426027-cb784dde-e684-441f-8a4c-ba258823c9f7.png)
+![image](https://user-images.githubusercontent.com/87953612/131426816-31ffceba-fc18-45da-9051-206a5c4aae5d.png)
+
 
 
 ### Age Demographics
@@ -56,7 +57,7 @@ Gender Demographics output:
 
  Age Demographics output:
  
-![image](https://user-images.githubusercontent.com/87953612/131426131-6aa5c1a3-fa0a-410d-be04-059984733c19.png)
+![image](https://user-images.githubusercontent.com/87953612/131426854-4b922b46-c795-4318-879d-07371c47c8ff.png)
 
 
 ### Purchasing Analysis (age)
@@ -69,7 +70,7 @@ Gender Demographics output:
 
  Purchasing Analysis (Age) output:
  
-![image](https://user-images.githubusercontent.com/87953612/131426190-0f99d245-7b25-4225-83aa-628453a75c04.png)
+![image](https://user-images.githubusercontent.com/87953612/131426883-cb7ec188-add8-4758-af04-ecc82d1e0da2.png)
 
 ### Top Spenders
 
@@ -81,7 +82,7 @@ Gender Demographics output:
 
 Top Spenders output:
 
-![image](https://user-images.githubusercontent.com/87953612/131426213-e53594a9-f161-49fb-b5d8-48e09be97252.png)
+![image](https://user-images.githubusercontent.com/87953612/131426920-153ed906-7e37-4509-996e-94827791458d.png)
 
 ### Most Popular Items
 
@@ -94,7 +95,7 @@ Top Spenders output:
 
 Most Popular Items output:
 
-![image](https://user-images.githubusercontent.com/87953612/131426263-eb2e52a6-f2cd-4a82-834b-079556f98aea.png)
+![image](https://user-images.githubusercontent.com/87953612/131426946-c9bc4106-e60f-4845-97e6-bdab82f83a8b.png)
 
 ### Most Profitable Items
 
@@ -107,7 +108,7 @@ Most Popular Items output:
   * 
 Most Profitable Items output:
 
-![image](https://user-images.githubusercontent.com/87953612/131426286-d434c0d8-8c5e-4ca3-813b-4c4e7d43bf0b.png)
+![image](https://user-images.githubusercontent.com/87953612/131426978-a7f89d1d-c93d-4d6d-b2f3-dd82289554a2.png)
 
 ## References
 
