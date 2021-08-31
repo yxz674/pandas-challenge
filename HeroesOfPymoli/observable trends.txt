@@ -1,0 +1,7 @@
+A written description of three observable trends based on the data.
+
+1. Among total 576 non-duplicated players, male players take up a larger proportion, approximately 84%. 
+The output of purchasing analysis is consistent with the previous result which is the largest number of purchases comes from the male group.
+2. The analysis by age group showed that young people between the ages of 20 and 24 were the main player of the game.
+The proportion of purchases is correspondingly high than other age groups.
+3. Top 2 most popular items and the top 2 most profitable items are relatively consistency. 
